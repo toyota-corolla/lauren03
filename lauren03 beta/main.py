@@ -169,14 +169,6 @@ while True:
        a = p.position()
        print(a)
 
-   if pergunta == 'qual seu nome?':
-      print('como assim tu esqueceu meu nome filha da puta')
-      falar(f'como assim tu esqueceu meu nome filha da puta?')
-
-      print('vai se foder, otario')
-      falar('vai se foder otario')
-      break
-
    elif pergunta == 'sair':
       print('vlw meu mano, qualquer coisa tamo ai')
       falar('valeu meu mano, qualquer coisa tamo aí')
